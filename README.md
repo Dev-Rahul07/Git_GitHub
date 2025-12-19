@@ -29,3 +29,16 @@ git push -u origin main
 to get code from github to my local we use git pull cmd
 
 git pull origin main(from origin to main)
+
+
+
+
+basacilly in a company there is a one main baranch and every dev creating there branch and complate there story and marge to main branch..
+
+
+creating new brance - 
+git branch devA(branch name)
+its exct replica of main  branch
+
+
+git checkout Dev1 ->Going to Dev1 Branch
