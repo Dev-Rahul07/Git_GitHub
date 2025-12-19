@@ -24,3 +24,8 @@ main - local branch
 
 pushing code on github - 
 git push -u origin main
+
+
+to get code from github to my local we use git pull cmd
+
+git pull origin main(from origin to main)
