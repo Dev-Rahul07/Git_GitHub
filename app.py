@@ -1,5 +1,5 @@
-def sum_val(a,b):
-    return a+b
+def sum_val(a,b,c):
+    return a+b+c
 
 print(sum_val(10,20))
 
