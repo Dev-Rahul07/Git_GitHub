@@ -42,3 +42,10 @@ its exct replica of main  branch
 
 
 git checkout Dev1 ->Going to Dev1 Branch
+
+
+Merge -  alway done from main branch
+git  merge Dev1
+
+how delte branch
+git branch -d branchname
